@@ -7,6 +7,8 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
+<img src="1.jpg" width="300"  alt="300">
+
 <h1> PROYECTO 1
 jjejej...soy la jefa..jijij..ruby</h1>
 
